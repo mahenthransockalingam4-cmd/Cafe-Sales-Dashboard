@@ -106,7 +106,7 @@ Measures created include:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/mahenthransockalingam4-cmd/Cafe-Sales-Dashboard/main/Images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
