@@ -109,7 +109,7 @@ Measures created include:
 (Add your dashboard screenshot here.)
 
 ```
-![Dashboard](dashboard.png)
+![Dashboard](Images/dashboard.png)
 ```
 
 ---
