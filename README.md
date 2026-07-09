@@ -106,12 +106,7 @@ Measures created include:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here.)
-<img width="1165" height="657" alt="image" src="https://github.com/user-attachments/assets/b5ed384b-72c2-4459-a2f3-c67a339327b0" />
-
-```
-![Dashboard](Images/dashboard.png)
-```
+![Dashboard](Images/Cafe%20Sales%20Dashboard.png)
 
 ---
 
