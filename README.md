@@ -102,7 +102,16 @@ Measures created include:
 - Business Intelligence
 - Data Visualization
 
+
 ---
+## 💼 Business Recommendations
+
+- Promote high-performing menu items such as Salad and Sandwich.
+- Encourage the use of Digital Wallet through promotional offers.
+- Investigate lower-performing items to optimize the menu.
+- Monitor monthly sales trends to improve inventory planning.
+
+ ---
 
 ## 📷 Dashboard Preview
 
