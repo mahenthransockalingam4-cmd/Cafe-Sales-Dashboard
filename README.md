@@ -135,4 +135,4 @@ Cafe-Sales-Dashboard
 
 ## 👤 Author
 
-**Mahendran Sockalingam**
+**Mahenthran Sockalingam**
